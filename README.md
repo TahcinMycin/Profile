@@ -15,4 +15,4 @@ or you can say the domain without paying
 
 Point your browser...
 
-tahcinmycin.github.io/Profile/
+https://tahcinmycin.github.io/Profile/
